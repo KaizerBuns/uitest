@@ -1,0 +1,6 @@
+{
+	"port": 5500,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link", "Access-Control-Allow-Headers", "Authorization"],
+  	"allowedHeaders": ["Content-Type", "Authorization"]
+}
